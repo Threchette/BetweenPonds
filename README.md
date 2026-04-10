@@ -53,7 +53,7 @@ Results from different AI tools and methods reviewing the same brief:
 
 | File | What it does |
 |------|-------------|
-| [`scaling-research-presentation.html`](scaling-research-presentation.html) | Standalone Reveal.js slide deck from the "Scaling Research" talk at the Employed.world meetup (10 April 2026, Berlin). Open directly in any browser. |
+| [`scaling-research-presentation.html`](scaling-research-presentation.html) | Standalone Reveal.js slide deck from the "Scaling Research" talk at the Employed.world meetup (10 April 2026, Berlin). Co-created with AI — some slides were deliberately left as raw AI output to show how AI-generated content can be both influential and out of touch. Open directly in any browser. |
 
 ## Disclaimer
 
