@@ -14,6 +14,13 @@ This repository is a research artifact for exploring how conflicting domain expe
 
 ## Repository Structure
 
+### Presentation
+
+| File | What it does |
+|------|-------------|
+| [`scaling-research-presentation.html`](scaling-research-presentation.html) | Standalone Reveal.js slide deck from the "Scaling Research" talk at the Employed.world meetup (10 April 2026, Berlin). Co-created with AI — some slides were deliberately left as raw AI output to show how AI-generated content can be both influential and out of touch. Open directly in any browser. |
+| [`assets/images/`](assets/images/) | Images used by the presentation — author photo and Between Ponds concept art thumbnails. |
+
 ### The Fictional Brief
 
 Start here to understand the made-up game concept:
@@ -48,12 +55,6 @@ Results from different AI tools and methods reviewing the same brief:
 | File | What it does |
 |------|-------------|
 | [`research-skill/`](research-skill/) | A Claude Code skill definition for running structured multi-expert research investigations. |
-
-### Presentation
-
-| File | What it does |
-|------|-------------|
-| [`scaling-research-presentation.html`](scaling-research-presentation.html) | Standalone Reveal.js slide deck from the "Scaling Research" talk at the Employed.world meetup (10 April 2026, Berlin). Co-created with AI — some slides were deliberately left as raw AI output to show how AI-generated content can be both influential and out of touch. Open directly in any browser. |
 
 ## Disclaimer
 
