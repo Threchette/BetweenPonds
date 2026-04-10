@@ -55,23 +55,6 @@ Results from different AI tools and methods reviewing the same brief:
 |------|-------------|
 | [`scaling-research-presentation.html`](scaling-research-presentation.html) | Standalone Reveal.js slide deck from the "Scaling Research" talk at the Employed.world meetup (10 April 2026, Berlin). Open directly in any browser. |
 
-## Hard Constraints
-
-These are non-negotiable in the current brief. Do not propose changes that violate them; propose changes within them or flag where the constraints themselves create problems.
-
-1. No text chat, ever
-2. No free-form text outside the haiku form
-3. No ads
-4. No gacha, no loot boxes, no pay-to-speed
-5. No profiles, no usernames, no follower graph
-6. Cultural consultancy sign-off on all Japanese-origin assets
-7. City-level location only, or opt-out to "afar"
-8. On-device moderation pass before any message leaves the phone
-
-## What Lanternwater Is Asking For
-
-The (fictional) founders are seeking honest, rigorous critique across design, monetization, legal exposure, cultural authenticity, child safety, accessibility, mental health, platform policy, and any other domain the reviewer considers load-bearing. They have explicitly asked the advisory panel not to protect their feelings. They would rather hear hard things now than after launch.
-
 ## Disclaimer
 
 Everything in this repository, the studio, the team, the game, the investors, the cultural consultancy, is fiction. Any resemblance to real studios, people, or products is coincidental. This is a research tool, not a pitch deck.
