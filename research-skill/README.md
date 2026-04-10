@@ -203,8 +203,14 @@ Then read individual expert files for depth on angles that interest you most.
 
 ---
 
-## About
+## Origin & Credits
 
-This skill was extracted from a larger multi-agent research infrastructure and stripped down to be fully self-contained. The same underlying pattern — deploying multiple expert personas in parallel and synthesising across their findings — is what makes multi-domain research qualitatively different from asking a single AI the same question.
+Created by **Baki Bektas** as part of the [Between Ponds](https://github.com/Threchette/BetweenPonds) project — a fictional game concept designed to stress-test how conflicting domain expert opinions surface when multiple specialists review the same brief.
+
+This skill was extracted from that larger multi-agent research infrastructure and stripped down to be fully self-contained. The Between Ponds game concept deliberately creates tension between fields (child safety vs. anonymity, monetization vs. accessibility, cultural authenticity vs. global scale), and this research skill is the engine that surfaces those conflicts by deploying domain experts in parallel.
+
+The same underlying pattern — deploying multiple expert personas in parallel and synthesising across their findings — is what makes multi-domain research qualitatively different from asking a single AI the same question.
 
 The key insight: experts don't just bring different answers. They bring different *questions*. A philosopher asks "what does this assume?" A behavioral psychologist asks "what behaviour does this reinforce?" An anthropologist asks "what does this mean to someone from a different culture?" The synthesis is where those different questions collide and produce something none of them would find alone.
+
+Open source — free to use and share.

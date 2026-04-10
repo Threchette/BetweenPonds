@@ -6,6 +6,8 @@ effort: high
 
 # Multi-Domain Expert Research (Standalone)
 
+> Created by **Baki Bektas** — extracted from the [Between Ponds](https://github.com/Threchette/BetweenPonds) project, a fictional game concept built to surface conflicting domain expert opinions. Open source, free to use and share.
+
 Run a research investigation using a panel of up to 42 domain experts. Each expert analyses the topic from their unique perspective, then a synthesis cross-references all findings. Everything is saved locally as readable markdown files — no server, no database, no external tools required beyond Claude Code.
 
 ---
