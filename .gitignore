@@ -1,0 +1,10 @@
+.gitnexus
+.claude
+data/dock.json
+data/lessons.jsonl
+data/tasks.json
+docs/agent-dock-archive.md
+docs/agent-dock.md
+docs/agent-memory.md
+AGENTS.md
+CLAUDE.md
