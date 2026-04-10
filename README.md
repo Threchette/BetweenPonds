@@ -1,6 +1,6 @@
 # Between Ponds
 
-> **This is a fictional game concept.** Between Ponds does not exist. Lanternwater Studio does not exist. The entire brief — studio backstory, team bios, seed round, cultural consultancy — is fabricated. The purpose of this repository is to stress-test how domain experts (human or AI) handle a design brief where legitimate expertise from different fields produces genuinely conflicting recommendations. Monetization vs. accessibility, child safety vs. anonymity, cultural authenticity vs. global scale — the tensions are real even if the game is not.
+> **This is a fictional game concept.** Between Ponds does not exist. Lanternwater Studio does not exist. The entire brief, studio backstory, team bios, seed round, cultural consultancy, is fabricated. The purpose of this repository is to stress-test how domain experts (human or AI) handle a design brief where legitimate expertise from different fields produces genuinely conflicting recommendations. Monetization vs. accessibility, child safety vs. anonymity, cultural authenticity vs. global scale, the tensions are real even if the game is not.
 
 Created by **Baki Bektas** — open source, free to use and share.
 
@@ -10,7 +10,7 @@ Between Ponds is a fictional async social / cozy / collectible mobile title from
 
 ## Why This Exists
 
-This repository is a research artifact for exploring how conflicting domain expertise surfaces when multiple specialists review the same brief. The game concept is deliberately designed to create genuine tension between fields: a child-safety expert and a privacy advocate will disagree on anonymity; a monetization consultant and an accessibility specialist will disagree on pricing; a cultural consultant and a localization expert will disagree on how far Japanese aesthetics should bend for global audiences. None of them are wrong — that's the point.
+This repository is a research artifact for exploring how conflicting domain expertise surfaces when multiple specialists review the same brief. The game concept is deliberately designed to create genuine tension between fields: a child-safety expert and a privacy advocate will disagree on anonymity; a monetization consultant and an accessibility specialist will disagree on pricing; a cultural consultant and a localization expert will disagree on how far Japanese aesthetics should bend for global audiences. None of them are wrong and that's the point.
 
 ## Repository Structure
 
@@ -20,7 +20,7 @@ Start here to understand the made-up game concept:
 
 | File | What it does |
 |------|-------------|
-| [`docs/game-bible.md`](docs/game-bible.md) | The complete game design document — core loop, mechanics, message system, breeding, monetization, launch markets, age rating, and hard constraints. |
+| [`docs/game-bible.md`](docs/game-bible.md) | The complete game design document, core loop, mechanics, message system, breeding, monetization, launch markets, age rating, and hard constraints. |
 | [`docs/studio-fiction.md`](docs/studio-fiction.md) | The fictional Lanternwater Studio's team, origin story, cultural consultancy, seed round, and the seven questions posed to the advisory panel. |
 | [`docs/open-questions.md`](docs/open-questions.md) | The eight open questions the advisory panel is asked to answer. |
 | [`docs/visual-references.md`](docs/visual-references.md) | Descriptions and viewing instructions for the six concept images. |
@@ -38,8 +38,8 @@ Results from different AI tools and methods reviewing the same brief:
 
 | File | What it does |
 |------|-------------|
-| [`data/Expert-Round/`](data/Expert-Round/) | Multi-expert research round — the prompt used and the resulting report (Markdown + HTML). |
-| [`data/Gemini-deep-research/`](data/Gemini-deep-research/) | Google Gemini Deep Research output — seed-round advisory review and the prompt that produced it. |
+| [`data/Expert-Round/`](data/Expert-Round/) | Multi-expert research round, the prompt used and the resulting report (Markdown + HTML). |
+| [`data/Gemini-deep-research/`](data/Gemini-deep-research/) | Google Gemini Deep Research output, seed-round advisory review and the prompt that produced it. |
 | [`data/TinyTroupe/`](data/TinyTroupe/) | Microsoft TinyTroupe simulated survey results (CSV) from AI-generated personas. |
 | [`data/initial-research-via-notebookLM/`](data/initial-research-via-notebookLM/) | Early explorations via NotebookLM on agentic research architecture. |
 
@@ -53,7 +53,7 @@ Results from different AI tools and methods reviewing the same brief:
 
 | File | What it does |
 |------|-------------|
-| [`scaling-research-presentation.html`](scaling-research-presentation.html) | Standalone Reveal.js slide deck from the "Scaling Research" talk at the Employed.world meetup (10 April 2026, Berlin). Open directly in any browser — no server needed. |
+| [`scaling-research-presentation.html`](scaling-research-presentation.html) | Standalone Reveal.js slide deck from the "Scaling Research" talk at the Employed.world meetup (10 April 2026, Berlin). Open directly in any browser. |
 
 ## Hard Constraints
 
@@ -74,4 +74,4 @@ The (fictional) founders are seeking honest, rigorous critique across design, mo
 
 ## Disclaimer
 
-Everything in this repository — the studio, the team, the game, the investors, the cultural consultancy — is fiction. Any resemblance to real studios, people, or products is coincidental. This is a research tool, not a pitch deck.
+Everything in this repository, the studio, the team, the game, the investors, the cultural consultancy, is fiction. Any resemblance to real studios, people, or products is coincidental. This is a research tool, not a pitch deck.
