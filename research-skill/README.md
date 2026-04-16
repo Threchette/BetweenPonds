@@ -213,4 +213,4 @@ The same underlying pattern — deploying multiple expert personas in parallel a
 
 The key insight: experts don't just bring different answers. They bring different *questions*. A philosopher asks "what does this assume?" A behavioral psychologist asks "what behaviour does this reinforce?" An anthropologist asks "what does this mean to someone from a different culture?" The synthesis is where those different questions collide and produce something none of them would find alone.
 
-Open source — free to use and share.
+Open source — free to use and share. as long as you keep it that way.

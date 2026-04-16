@@ -6,5 +6,11 @@ data/tasks.json
 docs/agent-dock-archive.md
 docs/agent-dock.md
 docs/agent-memory.md
+docs/activeTasks.md
+docs/archive.md
+docs/backlog.md
+docs/meeting-notes.md
+docs/projectContext.md
+docs/research.md
 AGENTS.md
 CLAUDE.md

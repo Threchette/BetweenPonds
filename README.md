@@ -58,4 +58,6 @@ Results from different AI tools and methods reviewing the same brief:
 
 ## Disclaimer
 
-Everything in this repository, the studio, the team, the game, the investors, the cultural consultancy, is fiction. Any resemblance to real studios, people, or products is coincidental. This is a research tool, not a pitch deck.
+Everything in this repository, the studio, the team, the game, the investors, the cultural consultancy, is fiction. Any resemblance to real studios, people, or products is coincidental. This is a research tool, not a pitch deck. It is currently in early experimentation phase, concrete results are yet to be analyzed and verified. 
+
+free to use and share, as long as you keep it that way.
